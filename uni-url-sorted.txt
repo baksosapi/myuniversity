@@ -1,7 +1,5 @@
-
 UTSV.COM.MX
-www.lsst.ac
-su.digitaluniversity.ac
+www.lsst.acdigitaluniversity.ac
 kksanskrituni.digitaluniversity.ac
 web.uod.ac
 www.kcu.ac
